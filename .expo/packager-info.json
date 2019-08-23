@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 11352,
+  "expoServerNgrokUrl": "https://fs-pct.anonymous.datepicker.exp.direct",
+  "packagerNgrokUrl": "https://packager.fs-pct.anonymous.datepicker.exp.direct",
+  "ngrokPid": 12752,
+  "webpackServerPort": 19006
+}
