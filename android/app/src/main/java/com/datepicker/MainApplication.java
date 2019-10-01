@@ -61,4 +61,10 @@ public class MainApplication extends Application implements ReactApplication {
     super.onCreate();
     SoLoader.init(this, /* native exopackage */ false);
   }
+
+  public void dummyfunction(){
+    super.onCreate(){
+      SoLoader.init(this,true);
+    }
+  }
 }
